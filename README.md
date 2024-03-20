@@ -1,8 +1,8 @@
-#Startup Opener
+# Startup Opener
 
 Startup Opener is an app using Win32.
 
-##Features
+## Features
 
 Startup Opener can:
   **Add apps to startup** - Startup Opener is specifically designed to save you a few clicks by opening them automatically at either logon or startup.
